@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-MediLens Local - Medical AI Assistant
+Medicare Local - Medical AI Assistant
 Complete medical AI system with chat, document analysis, and image triage
 """
 
