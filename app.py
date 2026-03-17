@@ -78,7 +78,7 @@ def check_ollama_status():
 def render_sidebar():
     """Render informational sidebar."""
     with st.sidebar:
-        st.markdown("# 🏥 MediLens Local")
+        st.markdown("# 🏥 Medicare")
         st.markdown("*Your Private Medical AI Assistant*")
 
         # Navigation

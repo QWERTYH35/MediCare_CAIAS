@@ -27,7 +27,7 @@ class MediLensConfig:
     """Configuration management for MediLens Local application."""
 
     # Application Information
-    APP_NAME = "MediLens Local"
+    APP_NAME = "Medicare AI"
     APP_VERSION = "1.0.0"
     APP_DESCRIPTION = "Medical AI Assistant - Private & Offline"
 
